@@ -1,8 +1,10 @@
-Features of Java
+# Features of Java
 
 It has a great core of features that allows it to be one of the most utilised programming languages worldwide.
 
-🔑 Core Features:
+<br>
+
+# 🔑 Core Features:
 
 Platform Independent − Java code is executed on any device with the help of JVM.
 
