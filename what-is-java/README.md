@@ -14,3 +14,5 @@ Platform: Cross-platform (via JVM)
 Language Paradigm: Object-Oriented
 
 Applications: Android development, enterprise systems, web applications, etc.
+
+<hr>
