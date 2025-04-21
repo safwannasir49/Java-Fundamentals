@@ -18,3 +18,5 @@ Java and C++ are both powerful programming languages, but they differ in several
 ## Summary:
 - Java is better for cross-platform and enterprise-level apps.
 - C++ gives more control over system resources and is preferred for system-level programming.
+
+<hr>
