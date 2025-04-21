@@ -85,6 +85,7 @@ Understanding these three core components is key to grasping Java's architecture
 
 ### Summary:
 
+<ol> <li><strong>JDK</strong> = <strong>JRE</strong> + <em>Development Tools</em> (like compiler <code>javac</code>, debugger, etc.)</li> <li><strong>JRE</strong> = <strong>JVM</strong> + <em>Libraries</em> (Java Class Libraries needed to run Java apps)</li> <li><strong>JVM</strong> = <em>Engine that executes Java Bytecode</em> (platform-dependent)</li> </ol>
 
 ---
 
