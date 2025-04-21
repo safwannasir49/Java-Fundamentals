@@ -8,7 +8,7 @@ Welcome to the **Java Theory NotesJava Fundamentals** repository!.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [What is Java?](#what-is-java)
 2. [Features of Java](#features-of-java)
@@ -17,13 +17,13 @@ Welcome to the **Java Theory NotesJava Fundamentals** repository!.
 
 ---
 
-## 💡 What is Java?
+## What is Java?
 
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 It was developed by Sun Microsystems (now Oracle) and released in 1995. Java enables developers to write once and run anywhere using the Java Virtual Machine (JVM).
 
-### 🔍 Key Highlights:
+### Key Highlights:
 - Developed by: Sun Microsystems (1995)
 - Owned by: Oracle Corporation
 - Platform: Cross-platform (via JVM)
@@ -32,7 +32,7 @@ It was developed by Sun Microsystems (now Oracle) and released in 1995. Java ena
 
 ---
 
-## 🚀 Features of Java
+## Features of Java
 
 Java is known for its versatility, security, and portability. Here are some key features:
 
@@ -48,7 +48,7 @@ Java is known for its versatility, security, and portability. Here are some key 
 
 ---
 
-## ⚔️ Java vs C++
+## Java vs C++
 
 | Feature               | Java                                 | C++                                  |
 |----------------------|--------------------------------------|--------------------------------------|
@@ -67,19 +67,19 @@ Java is known for its versatility, security, and portability. Here are some key 
 
 ---
 
-## 🧰 JVM, JRE, and JDK
+## JVM, JRE, and JDK
 
 Understanding these three core components is key to grasping Java's architecture.
 
-### 🔧 JVM (Java Virtual Machine)
+### JVM (Java Virtual Machine)
 - Runs Java bytecode and makes Java platform-independent.
 - Handles memory management, security, and garbage collection.
 
-### 🏃‍♂️ JRE (Java Runtime Environment)
+### JRE (Java Runtime Environment)
 - Contains JVM + core libraries required to run Java applications.
 - Used **only for running**, not developing, Java programs.
 
-### 🛠 JDK (Java Development Kit)
+### JDK (Java Development Kit)
 - Full Java development package: JRE + compilers + debugging tools.
 - Used to **write, compile, debug** and run Java programs.
 
@@ -88,12 +88,31 @@ Understanding these three core components is key to grasping Java's architecture
 
 ---
 
-## 📥 Cloning the Repository
+## Cloning the Repository
 
 Want to use this repo locally?
 
 ```bash
 git clone https://github.com/safwannasir49/Java-Fundamentals.git
-cd java-theory-notes
 ```
 
+<hr/>
+
+
+<br><br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+       <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir" height="30" width="40" />
+    </a>
+    <a href="https://github.com/safwannasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="safwannasir49" height="30" width="40" />
+    </a>
+</p>
