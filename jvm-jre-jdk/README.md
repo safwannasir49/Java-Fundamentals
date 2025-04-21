@@ -19,4 +19,8 @@ Java's architecture is made up of three key components: JVM, JRE, and JDK. Under
 - JDK = JRE + development tools (javac, debugger, etc.)
 - Needed for writing, compiling, and debugging Java applications.
 
+# In Short
 
+JDK = JRE + Development Tools
+JRE = JVM + Libraries
+JVM = Engine that runs Java Bytecode
